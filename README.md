@@ -95,4 +95,4 @@ find . -path "*/migrations/*.pyc"  -delete
 MIT License - see [LICENSE](LICENSE) for details
 
 ---
-📧 Contact: [your.email@example.com](himanshudixit2406@gmail.com)
+📧 Contact: [himanshudixit2406@gmail.com](himanshudixit2406@gmail.com)
