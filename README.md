@@ -91,8 +91,7 @@ find . -path "*/migrations/*.pyc"  -delete
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open pull request
 
-## License 📄
-MIT License - see [LICENSE](LICENSE) for details
+
 
 ---
 📧 Contact: [himanshudixit2406@gmail.com](himanshudixit2406@gmail.com)
